@@ -6,12 +6,12 @@ Data set :- https://www.kaggle.com/datasets/mexwell/sonoma-country-animal-shelte
 
 This dataset consists of 26,350 entries detailing the intake and outcome of animals in Sonoma County’s shelter system. It includes information such as:
 
-Animal type (Dog, Cat, Other)
-Breed & Color
-Sex & Spay/Neuter Status
-Intake Date, Outcome Date, and Days in Shelter
-Intake Type & Outcome Type (Adoption, Euthanasia, Transfer, Return to Owner, etc.)
-Health Status & Age
+##### Animal type (Dog, Cat, Other)
+##### Breed & Color
+##### Sex & Spay/Neuter Status
+##### Intake Date, Outcome Date, and Days in Shelter
+##### Intake Type & Outcome Type (Adoption, Euthanasia, Transfer, Return to Owner, etc.)
+##### Health Status & Age
 
 This data helps in understanding trends in animal intake, outcomes, and time spent in shelters.
 
@@ -19,10 +19,10 @@ This data helps in understanding trends in animal intake, outcomes, and time spe
 
 The dataset contains 24 columns, including:
 
-Intake Data: Intake Type, Intake Condition, Jurisdiction
-Outcome Data: Outcome Type, Outcome Condition, Outcome Location
-Animal Details: Type, Breed, Color, Age, Size
-Duration: Number of Days Spent in the Shelter
+##### Intake Data: Intake Type, Intake Condition, Jurisdiction
+##### Outcome Data: Outcome Type, Outcome Condition, Outcome Location
+##### Animal Details: Type, Breed, Color, Age, Size
+##### Duration: Number of Days Spent in the Shelter
 
 The dataset allows us to analyze the trends and factors that influence animal shelter outcomes.
 
